@@ -1,2 +1,4 @@
 # Demo
-This is my first Git Repository.Author - Prapti Sonkusre
+This is my first Git Repository.
+<br>
+Author - Prapti Sonkusre
